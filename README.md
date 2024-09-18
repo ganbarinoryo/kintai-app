@@ -65,3 +65,4 @@ DB_CONNECTION=sqlite
 or
 
 `http://127.0.0.1:8000`
+# kintai-app
